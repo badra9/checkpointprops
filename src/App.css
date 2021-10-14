@@ -1,0 +1,21 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.main{
+  width: 500px;
+  margin: 50px auto;
+  padding: 15px;
+  background-color: rgb(33 150 243 / 28%);
+  text-align: center;
+}
+.select{
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 80px;
+}
+.select select{
+  background-color: rgb(33 150 243 / 28%);
+  outline: none;
+}
